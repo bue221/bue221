@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/bue221/bue221/blob/main/octocat.png" alt="Octocat" height=550px/>
+<img align="right" src="https://github.com/bue221/bue221/blob/main/octocat.png" alt="Octocat" height=200px/>
 
 ### Hi there I'm Andrés 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -51,7 +51,9 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 
 </p><br>
----
 
-![bue221 Github Stats](https://github-readme-stats.vercel.app/api?username=bue221&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-.
+----
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=bue221&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="github">
+</p>
