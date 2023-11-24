@@ -13,7 +13,7 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 
 ### :blush: Talking about Personal Stuffs:
 
-<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/bue221.gif" />
+<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/bue221/bue221/main/img/bue221.gif" />
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading tech blogs whenever possible.
@@ -167,14 +167,14 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <!-- <img alt="MehedilslamRipon's streak" src="https://github.com/bue221/bue221/blob/main/octocat.png?raw=true"/> -->
+    <!-- <img alt="bue221's streak" src="https://github.com/bue221/bue221/blob/main/octocat.png?raw=true"/> -->
 </p>
 
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&show_icons=true&hide_border=true&theme=tokyonight" alt="MehedilslamRipon's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehedilslamRipon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="MehedilslamRipon's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=bue221&show_icons=true&hide_border=true&theme=tokyonight" alt="bue221's stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bue221&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="bue221's stats"/>
 </p>
 
 ---
