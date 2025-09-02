@@ -35,7 +35,7 @@ const andres = {
 
 | 🔭 Currently Working | 🌱 Currently Learning | 👯 Looking to Collaborate |
 |:---:|:---:|:---:|
-| **[Spot2.mx](http://spot2.mx/)** | **Data Science & AI** | **Any Exciting Project** |
+| **[Mercado Libre](https://www.mercadolibre.com.co/)** | **Data Science & AI** | **Any Exciting Project** |
 | Building next-gen solutions | Expanding ML knowledge | Open to opportunities |
 
 </div>
