@@ -16,7 +16,7 @@
 const andres = {
     location: "Bogotá, Colombia 🇨🇴",
     education: "Computer Science - Universidad Central",
-    currentWork: "Spot2.mx",
+    currentWork: "Mercado Libre",
     passions: ["Coding", "Innovation", "Problem Solving"],
     architecture: ["Microservices", "Event-driven", "Serverless"],
     currentFocus: "AI/ML & Data Science",
