@@ -16,7 +16,8 @@
 const andres = {
     location: "Bogotá, Colombia 🇨🇴",
     education: "Computer Science - Universidad Central",
-    currentWork: "Mercado Libre",
+    status: "Available for work 🟢",
+    lastRole: "Software Engineer AI @ Mercado Libre (Jul 2025 – Sep 2026)",
     passions: ["Coding", "Innovation", "Problem Solving"],
     architecture: ["Microservices", "Event-driven", "Serverless"],
     currentFocus: "AI/ML & Data Science",
@@ -33,10 +34,10 @@ const andres = {
 
 <div align="center">
 
-| 🔭 Currently Working | 🌱 Currently Learning | 👯 Looking to Collaborate |
+| 💼 Status | 🌱 Currently Learning | 👯 Looking to Collaborate |
 |:---:|:---:|:---:|
-| **[Mercado Libre](https://www.mercadolibre.com.co/)** | **Data Science & AI** | **Any Exciting Project** |
-| Building next-gen solutions | Expanding ML knowledge | Open to opportunities |
+| **Available for work** | **Data Science & AI** | **Any Exciting Project** |
+| Last role: [Mercado Libre](https://www.mercadolibre.com.co/) · Jul 2025 – Sep 2026 | Expanding ML knowledge | Open to opportunities |
 
 </div>
 
