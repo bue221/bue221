@@ -21,9 +21,11 @@
 
 ## 👋 About me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" />
 
 I'm a **Full Stack + AI developer** with **4+ years** of experience. Strong frontend craft in **React / Next.js + TypeScript**, plus backend work in **Python and Go**. I build **AI agent platforms**, product UIs and polished interfaces — and outside of code I'm a **tattoo artist** who plays classical guitar. 🎸
+
+<br clear="right" />
 
 ```ts
 const andres = {
@@ -37,16 +39,14 @@ const andres = {
 }
 ```
 
-<br clear="right" />
-
 ## 📈 Impact
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h2>10k+</h2><sub>daily AI conversations evaluated across 10 agents<br/><b>Mercado Libre</b></sub></td>
-    <td align="center" width="25%"><h2>+110%</h2><sub>lead capture with a Python + LangChain chatbot<br/><b>Spot2</b></sub></td>
-    <td align="center" width="25%"><h2>−90%</h2><sub>duplicate requests in the map view<br/><b>Spot2</b></sub></td>
-    <td align="center" width="25%"><h2>3</h2><sub>junior devs mentored as Frontend Tech Lead<br/><b>Straico</b></sub></td>
+    <td align="center" valign="top" width="25%"><h2>10k+</h2><sub>daily AI conversations evaluated across 10 agents<br/><b>Mercado Libre</b></sub></td>
+    <td align="center" valign="top" width="25%"><h2>+110%</h2><sub>lead capture with a Python + LangChain chatbot<br/><b>Spot2</b></sub></td>
+    <td align="center" valign="top" width="25%"><h2>−90%</h2><sub>duplicate requests in the map view<br/><b>Spot2</b></sub></td>
+    <td align="center" valign="top" width="25%"><h2>3</h2><sub>junior devs mentored as Frontend Tech Lead<br/><b>Straico</b></sub></td>
   </tr>
 </table>
 
